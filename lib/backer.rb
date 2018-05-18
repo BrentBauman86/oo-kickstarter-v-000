@@ -7,7 +7,7 @@ def initialize(projects)
 
 end
 
-def add_project
+def add_project()
 
 end
 
