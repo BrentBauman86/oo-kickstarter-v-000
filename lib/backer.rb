@@ -5,10 +5,10 @@ class Backer
 @backed_projects = []
 
 end
-#
-# def add_project()
-#
-# end
+
+def back_project(project)
+
+end
 
 
 end
