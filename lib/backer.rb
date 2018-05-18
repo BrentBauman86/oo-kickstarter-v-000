@@ -1,9 +1,9 @@
 class Backer
 
-attr_accessor :backed_projects
+attr_accessor :projects
 
-def initialize()
-@backed_projects = backed_projects
+def initialize(projects)
+@projects = [] 
 
 end
 
